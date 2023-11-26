@@ -1,0 +1,1 @@
+ C:\\Users\\gamep\\OneDrive\\Desktop\\Chatter\\.dart_tool\\flutter_build\\cebabbaa97408ff1f37d4130a1be8e24\\native_assets.yaml: 
